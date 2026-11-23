@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+social-data.json
+social-data.json.bak
+report.md
+report.html
+report.json
+report.csv
+.DS_Store
